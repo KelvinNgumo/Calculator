@@ -7,3 +7,5 @@ first step will be breaking down the Calculator function:
     * Multiply
     * Division
     * Total Sum
+
+    design the fine UI interface.
