@@ -27,8 +27,8 @@ if choice == 5:
 
 else:
 
-    a = float(input('Enter First number:'))
-    b = float(input('Enter Second number:'))
+    a = float(input("Enter First number:"))
+    b = float(input("Enter Second number:"))
 
 if choice == 1:
     print('Result:', Addition(a, b))
