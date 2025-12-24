@@ -8,4 +8,4 @@ first step will be breaking down the Calculator function:
     * Division
     * Total Sum
 
-    design the fine UI interface.
+   design the fine UI interface as the final stage.
